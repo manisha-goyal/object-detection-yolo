@@ -10,8 +10,8 @@ This repository provides a simplified object detection model inspired by YOLO, f
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/manisha-goyal/object-detection-YOLO.git
-    cd object-detection-YOLO
+    git clone https://github.com/manisha-goyal/object-detection-yolo.git
+    cd object-detection-yolo
     ```
 
 ## Usage
